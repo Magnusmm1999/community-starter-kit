@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Starter
 
 ## What it does
 
