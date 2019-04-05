@@ -4,7 +4,7 @@ DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Starter
 
 ## Getting started
 
